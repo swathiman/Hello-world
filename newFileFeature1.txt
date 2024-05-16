@@ -1,2 +1,2 @@
 its my first branch
-feature1 brach 
+feature1 branch .
