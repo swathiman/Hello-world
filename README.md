@@ -1,1 +1,1 @@
-hello,goog morning!!! 
+hello,good morning!!! 
